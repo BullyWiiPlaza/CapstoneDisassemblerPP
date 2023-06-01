@@ -30,6 +30,7 @@
   <ItemGroup>
     <None Include="README.md" />
     <None Include=".gitignore" />
+    <None Include="vcpkg.json" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="LICENSE.txt" />
